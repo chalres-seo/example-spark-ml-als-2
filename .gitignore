@@ -57,4 +57,4 @@ hs_err_pid*
 logs/*
 out/
 temp/*
-metastore_db
+metastore_db/
